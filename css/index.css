@@ -14,8 +14,6 @@
 p~ul{
     width: 50%;
     margin-left: auto;
-    display: inline-block;
-    vertical-align: top
 }
 
 .heroImg {
@@ -29,4 +27,9 @@ p~ul{
 footer {
     background-color: #373738;
     padding: 10px;
+}
+
+ul li {
+    display: inline-block;
+    vertical-align: top
 }
