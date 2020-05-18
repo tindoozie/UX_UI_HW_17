@@ -26,13 +26,7 @@ p~ul{
     width: 500px;
     margin: 0 auto;
 }
-.footer {
+footer {
     background-color: #373738;
-    padding: 20px;
-}
-
-ul.footer {
-    display: inline-block;
-    vertical-align: top
-
+    padding: 10px;
 }
